@@ -6,7 +6,7 @@ const Footer = () => {
             <footer className="footer">
                 <div className="footer-left col-md-4 col-sm-6">
                     <p className="about">
-                        <span> About the company</span> This is coding teachingonlineplatform. Here we teach diffent type of technology, like MERN stack, LAMPP stack. Python-Javascript stack. We teach python, c++, java, Javascript, Golang.
+                        <span> About the company</span> This is coding teaching online platform. Here we teach diffent type of technology, like MERN stack, LAMPP stack. Python-Javascript stack. We teach python, c++, java, Javascript, Golang.
                     </p>
                     <div className="icons">
                         <a href="https://www.facebook.com/"><i className="fab fa-facebook"></i></a>
