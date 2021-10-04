@@ -76,7 +76,7 @@ const Blog = () => {
                             <Card.Body>
                                 <Card.Title> <h4>{blog.name}</h4> </Card.Title>
                                 <Card.Text className="textp">
-                                    <p>Instructor: {blog.address}</p>
+                                    <p>{blog.address}</p>
 
                                 </Card.Text>
                             </Card.Body>
