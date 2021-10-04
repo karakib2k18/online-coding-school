@@ -12,6 +12,7 @@ const Footer = () => {
                                 <span> About the company</span> This is coding teaching online platform. Here we teach diffent type of technology, like MERN stack, LAMPP stack. Python-Javascript stack. We teach python, c++, java, Javascript, Golang.
                             </p>
                             <div className="icons">
+                                <h4 className="text-white">Follow Us</h4>
                                 <a href="https://www.facebook.com/"><i className="fab fa-facebook"></i></a>
                                 <a href="https://www.facebook.com/"><i className="fab fa-twitter"></i></a>
                                 <a href="https://www.facebook.com/"><i className="fab fa-linkedin"></i></a>
@@ -20,7 +21,7 @@ const Footer = () => {
                             </div>
                         </div>
                         <div className="footer-center col-md-3 col-sm-6">
-                            <h2 className="text-white ms-3">Contact Us</h2>
+                            <h3 className="text-white ms-3 mb-2">Contact Us</h3>
                             <div>
                                 <i className="fa fa-map-marker"></i>
                                 <p>Dhaka, Bangladesh </p>
@@ -38,7 +39,7 @@ const Footer = () => {
                         <div className="col-md-2 col-sm-6">
                             <div className="text-white">
                                 <div className="categ">
-                                    <h3>Categories</h3>
+                                    <h3 className="mb-3">Categories</h3>
                                     <p>Machine Learning</p>
                                     <p>Web Design</p>
                                     <p>Web Development</p>
@@ -64,7 +65,7 @@ const Footer = () => {
 
                             </div>
                         </div>
-                        <p className="name text-center mt-3"> Coding School &copy; 2021</p>
+                      <div>  <p className="name text-center mt-3"> Coding School &copy; 2021</p></div>
                     </div>
                 </div>
             </footer>

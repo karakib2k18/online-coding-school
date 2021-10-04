@@ -17,12 +17,12 @@ const CardDetails = (props) => {
                             <p>Ratings: {rating} ({people} Reviews)</p>
                             <p>Duration: {hours} Hours</p>
                             <p>Enrolled: {enrolled}</p>
-                            <p ><span className="languagec">Language: {language}</span></p>
+                            <p><span className="languagec">Language: {language}</span></p>
                           
                         </Card.Text>
                     </Card.Body>
                     <Card.Footer className="bg bg-white">
-                        <button className="btn btn-warning"><i class="fas fa-shopping-cart"></i> <span className="ms-2">Add to Cart</span></button>
+                        <button  className="btn btn-warning"><i className="fas fa-shopping-cart"></i> <span className="ms-2">Add to Cart</span></button>
                     </Card.Footer>
                 </Card>
             </Col>
