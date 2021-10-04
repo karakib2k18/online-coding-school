@@ -1,0 +1,14 @@
+.nav-link{
+    font-size: 23px;
+    color: black !important;
+    margin: 0px 10px;
+}
+.navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16);
+}
+.navbar-brand {
+    font-size: 1.75rem;
+
+}
