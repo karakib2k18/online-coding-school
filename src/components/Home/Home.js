@@ -17,7 +17,7 @@ const Home = () => {
             <h1 className="mt-5 mb-5">Popular Courses</h1>
             <div className="container">
                 <Row xs={1} md={3} className="g-4">
-                    {courses.slice(0, 5).map(course => (
+                    {courses.slice(0, 4).map(course => (
                         <CardDetails key={course.id} course={course}></CardDetails>
                     ))}
                 </Row>
