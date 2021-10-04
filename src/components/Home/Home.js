@@ -14,7 +14,7 @@ const Home = () => {
     }, []);
     return (
         <div>
-            <h1 className="mt-5 mb-5">Popular Courses</h1>
+            <h1 className="mt-3 mb-3">Popular Courses</h1>
             <div className="container">
                 <Row xs={1} md={3} className="g-4">
                     {courses.slice(0, 4).map(course => (

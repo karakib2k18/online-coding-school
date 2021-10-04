@@ -11,7 +11,7 @@ const AllCourses = () => {
     }, []);
     return (
         <div>
-            <h1 className="mt-5 mb-5">All Courses</h1>
+            <h1 className="mt-3 mb-3">All Courses</h1>
             <div className="container">
                 <Row xs={1} md={3} className="g-4">
                     {courses.map(course => (
