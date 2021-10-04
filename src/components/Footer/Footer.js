@@ -11,14 +11,6 @@ const Footer = () => {
                             <p className="about">
                                 <span> About the company</span> This is coding teaching online platform. Here we teach diffent type of technology, like MERN stack, LAMPP stack. Python-Javascript stack. We teach python, c++, java, Javascript, Golang.
                             </p>
-                            <div className="icons">
-                                <h4 className="text-white">Follow Us</h4>
-                                <a href="https://www.facebook.com/"><i className="fab fa-facebook"></i></a>
-                                <a href="https://www.facebook.com/"><i className="fab fa-twitter"></i></a>
-                                <a href="https://www.facebook.com/"><i className="fab fa-linkedin"></i></a>
-                                <a href="https://www.facebook.com/"><i className="fab fa-google-plus"></i></a>
-                                <a href="https://www.facebook.com/"><i className="fab fa-instagram"></i></a>
-                            </div>
                         </div>
                         <div className="footer-center col-md-3 col-sm-6">
                             <h3 className="text-white ms-3 mb-2">Contact Us</h3>
@@ -61,6 +53,14 @@ const Footer = () => {
                                         />
                                         <Button variant="btn btn-success">Submit</Button>
                                     </Form>
+                                </div>
+                                <div className="icons ms-3">
+                                    <h4 className="text-white mt-3">Follow Us</h4>
+                                    <a href="https://www.facebook.com/"><i className="fab fa-facebook"></i></a>
+                                    <a href="https://www.facebook.com/"><i className="fab fa-twitter"></i></a>
+                                    <a href="https://www.facebook.com/"><i className="fab fa-linkedin"></i></a>
+                                    <a href="https://www.facebook.com/"><i className="fab fa-google-plus"></i></a>
+                                    <a href="https://www.facebook.com/"><i className="fab fa-instagram"></i></a>
                                 </div>
 
                             </div>
