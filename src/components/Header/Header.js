@@ -20,7 +20,7 @@ const Header = () => {
 
                             <NavLink className="nav-link" to="/home" activeStyle={headerStyle}>Home </NavLink>
                             <NavLink className="nav-link" to="/about" activeStyle={headerStyle}>About </NavLink>
-                            <NavLink className="nav-link" to="/Courses" activeStyle={headerStyle}>Courses </NavLink>
+                            <NavLink className="nav-link" to="/courses" activeStyle={headerStyle}>Courses </NavLink>
                             <NavLink className="nav-link" to="/blog" activeStyle={headerStyle}>Blog </NavLink>
                         </Nav>
                         <Form className="d-flex">

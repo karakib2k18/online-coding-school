@@ -19,7 +19,7 @@
   "instructor": "Grider",
   "hours": 53,
   "enrolled": 56755,
-  "language": "Javascript"
+  "language": "REDUX"
 }, {
   "id": 3,
   "name": "The Complete Web Developer Course 2.0",
@@ -41,7 +41,7 @@
   "hours": 68,
   "enrolled": 83753,
   "people": 2467,
-  "language": "HTML"
+  "language": "HTML-CSS-JS"
 }, {
   "id": 5,
   "name": "The Complete C++ Developer in 2021: Zero to Mastery ",

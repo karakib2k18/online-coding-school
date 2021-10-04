@@ -7,17 +7,17 @@ const CardDetails = (props) => {
     return (
         <>
             <Col>
-                <Card className="shadow p-3 bg-white rounded h-100 text-start">
+                <Card className="shadow p-3 bg-white rounded h-100 text-start cardh4">
                     <Card.Img variant="top" src={img} />
                     <Card.Body>
-                        <h5>Price: ${price} </h5>
-                        <Card.Title>{name}</Card.Title>
+                        <h5><span className="languagec">Price:  {price}$</span></h5>
+                        <Card.Title> <h3>{name}</h3> </Card.Title>
                         <Card.Text className="textp">
                             <p>Instructor: {instructor}</p>
                             <p>Ratings: {rating} ({people} Reviews)</p>
-                            <p>Duration: {hours}</p>
+                            <p>Duration: {hours} Hours</p>
                             <p>Enrolled: {enrolled}</p>
-                            <p>Language: {language}</p>
+                            <p ><span className="languagec">Language: {language}</span></p>
                           
                         </Card.Text>
                     </Card.Body>

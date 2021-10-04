@@ -1,3 +1,21 @@
 .textp p{
     margin-bottom: 10px !important;
 }
+.languagec{
+    background: rgba(187,27,254,0.06);
+color: #bb1bfe;
+    padding: 6px 11px;
+    border-radius: 6px;
+}
+.cardh4 h3{
+    font-size: 23px;
+    line-height: 26px;
+    color: #121317;
+    font-weight: 500;
+}
+.cardh4{
+    font-size: 18px;
+    line-height: 26px;
+    color: #121317;
+    font-weight: 500;
+}
