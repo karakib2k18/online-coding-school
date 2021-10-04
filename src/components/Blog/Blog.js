@@ -3,7 +3,6 @@ import { Card, Col, Row } from 'react-bootstrap';
 import "./Blog.css"
 
 const Blog = () => {
-    // const blogposts = 
     const [blogposts, setBlogposts] = useState([]);
     useEffect(() => {
         fetch('./blog.JSON')
