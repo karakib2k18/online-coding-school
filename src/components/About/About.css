@@ -13,3 +13,10 @@ color: #1c1d1f !important;
 background-color: #2d907f !important;
 color: #fff !important;
 }
+.card{
+    border: none !important;
+}
+.card:hover{
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+    border: none !important;
+}

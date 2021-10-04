@@ -10,7 +10,7 @@ const About = () => {
                     <h2>We are providing the best quality online coding courses. Our all instructors are high expert on this.</h2>
                     <Row xs={1} md={3} className="g-4 mt-3">
                         <Col>
-                            <Card className="shadow p-3 bg-white rounded h-100 text-start">
+                            <Card className=" p-3 bg-white rounded h-100 text-start">
                                 {/* <Card.Img variant="top" src="" /> */}
                                 <Card.Body className="text-center">
                                     <Card.Title className=""> <h3>12,600+</h3> </Card.Title>
@@ -21,7 +21,7 @@ const About = () => {
                             </Card>
                         </Col>
                         <Col>
-                            <Card className="shadow p-3 bg-white rounded h-100 text-start">
+                            <Card className=" p-3 bg-white rounded h-100 text-start">
                                 {/* <Card.Img variant="top" src="" /> */}
                                 <Card.Body className="text-center">
                                     <Card.Title className=""> <h3>40+</h3> </Card.Title>
@@ -32,7 +32,7 @@ const About = () => {
                             </Card>
                         </Col>
                         <Col>
-                            <Card className="shadow p-3 bg-white rounded h-100 text-start">
+                            <Card className=" p-3 bg-white rounded h-100 text-start">
                                 {/* <Card.Img variant="top" src="" /> */}
                                 <Card.Body className="text-center">
                                     <Card.Title className=""> <h3>100%</h3> </Card.Title>
@@ -49,7 +49,7 @@ const About = () => {
                     <h1>Why we are the best</h1>
                     <Row xs={1} md={3} className="g-4 mt-1">
                         <Col>
-                            <Card className="shadow p-3 bg-white rounded h-100 text-start">
+                            <Card className=" p-3 bg-white rounded h-100 text-start">
                                 {/* <Card.Img variant="top" src="" /> */}
                                 <Card.Body className="text-center">
                                     <Card.Title className=""> <h3>High Quality Courses </h3> </Card.Title>
@@ -60,7 +60,7 @@ const About = () => {
                             </Card>
                         </Col>
                         <Col>
-                            <Card className="shadow p-3 bg-white rounded h-100 text-start">
+                            <Card className=" p-3 bg-white rounded h-100 text-start">
                                 {/* <Card.Img variant="top" src="" /> */}
                                 <Card.Body className="text-center">
                                     <Card.Title className=""> <h3>Expert Instructors </h3> </Card.Title>
@@ -71,7 +71,7 @@ const About = () => {
                             </Card>
                         </Col>
                         <Col>
-                            <Card className="shadow p-3 bg-white rounded h-100 text-start">
+                            <Card className=" p-3 bg-white rounded h-100 text-start">
                                 {/* <Card.Img variant="top" src="" /> */}
                                 <Card.Body className="text-center">
                                     <Card.Title className=""> <h3>Life Time Access </h3> </Card.Title>
@@ -87,7 +87,7 @@ const About = () => {
                     <h1 className="orange mt-5">See Our All Facilities</h1>
                     <Row xs={1} md={3} className="g-4 mt-3">
                         <Col className="">
-                            <Card className="shadow p-3 bg-white rounded h-100 text-start card-header1">
+                            <Card className=" p-3 bg-white rounded h-100 text-start card-header1">
                                 {/* <Card.Img variant="top" src="" /> */}
                                 <Card.Body className="text-center">
                                     <Card.Title className=""> <h3>Work with us</h3> </Card.Title>
@@ -101,7 +101,7 @@ const About = () => {
                             </Card>
                         </Col>
                         <Col>
-                            <Card className="shadow p-3 bg-white rounded h-100 text-start card-header2">
+                            <Card className=" p-3 bg-white rounded h-100 text-start card-header2">
                                 {/* <Card.Img variant="top" src="" /> */}
                                 <Card.Body className="text-center">
                                     <Card.Title className=""> <h3>See our research</h3> </Card.Title>
@@ -115,7 +115,7 @@ const About = () => {
                             </Card>
                         </Col>
                         <Col>
-                            <Card className="shadow p-3 bg-white rounded h-100 text-start card-header3">
+                            <Card className=" p-3 bg-white rounded h-100 text-start card-header3">
                                 {/* <Card.Img variant="top" src="" /> */}
                                 <Card.Body className="text-center">
                                     <Card.Title className=""> <h3>Read our blog</h3> </Card.Title>
